@@ -1,0 +1,12 @@
+threatTypes,tags,name,description,confidence,revoked,validFrom,validUntil,tlpLevel,severity,observableType,observableValue
+,,BlackLotus1,,,,2023-03-08T15:30:00Z,,,,domain-name,harrysucksdick.com
+,,BlackLotus2,,,,2023-03-08T15:30:00Z,,,,domain-name,www.msftncsi.com
+,,BlackLotus3,,,,2023-03-08T15:30:00Z,,,,domain-name,xrepositoryx.name
+,,BlackLotus4,,,,2023-03-08T15:30:00Z,,,,domain-name,heikickgn.com
+,,BlackLotus5,,,,2023-03-08T15:30:00Z,,,,domain-name,myrepository.name
+,,BlackLotus6,,,,2023-03-08T15:30:00Z,,,,domain-name,api.ipify.org
+,,BlackLotus7,,,,2023-03-08T15:30:00Z,,,,domain-name,msdl.microsoft.com
+,,BlackLotus8,,,,2023-03-08T15:30:00Z,,,,domain-name,frassirishiproc.com 
+,,BlackLotus9,,,,2023-03-08T15:30:00Z,,,,domain-name,myrepositoryx.com
+,,BlackLotus10,,,,2023-03-08T15:30:00Z,,,,domain-name,erdjknfweklsgwfmewfgref.com
+,,BlackLotus11,,,,2023-03-08T15:30:00Z,,,,domain-name,egscorp.net
